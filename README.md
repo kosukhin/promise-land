@@ -1,2 +1,3 @@
 # promise-land
-about promises
+
+Все о промисах JS, что мне известно.
